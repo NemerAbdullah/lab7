@@ -1,9 +1,12 @@
 ## step 4:
 ![Image](login.png)
-## step5:
+- keys pressed: ssh cse15lfa23ix@ieng6.ucsd.edu
+## step5: 
 ![Image](clone.png)
+- keys pressed: git clone git@github.com:NemerAbdullah/lab7.git
 ## step6:
 ![Image](failed.png)
+- keys pressed: bash test.sh
 ## step7:
 ![Image](vimEnter.png)
 - vim started in a random location, so I pressed 1000k 1000h so that I started in the top left corner.
@@ -23,6 +26,10 @@ file after the change:
 
 ## step8:
 ![Image](success.png)
+- keys pressed: bash test.sh
+
 ## step9:
 ![Image](commit.png)
+- keys pressed: git commit -m "fixed error"
 ![Image](push.png)
+- keys pressed: git push origin main
